@@ -1,0 +1,13 @@
+.flex-container{
+      
+    background: rgb(99, 0, 133);
+}
+
+.flex-item{
+    background-color: rgb(255, 251, 0);
+    color: black;
+    padding: 10px;
+    margin: 20px;
+
+
+}
